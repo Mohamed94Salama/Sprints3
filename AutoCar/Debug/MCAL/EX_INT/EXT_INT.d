@@ -1,0 +1,11 @@
+MCAL/EX_INT/EXT_INT.o MCAL/EX_INT/EXT_INT.o: ../MCAL/EX_INT/EXT_INT.c \
+  ../MCAL/EX_INT/EXT_INT.h ../MCAL/EX_INT/../../LIB/STD_TYPES.h \
+  ../MCAL/EX_INT/../../LIB/BIT_MANIPULATE.h ../MCAL/EX_INT/../Register.h
+
+../MCAL/EX_INT/EXT_INT.h:
+
+../MCAL/EX_INT/../../LIB/STD_TYPES.h:
+
+../MCAL/EX_INT/../../LIB/BIT_MANIPULATE.h:
+
+../MCAL/EX_INT/../Register.h:
