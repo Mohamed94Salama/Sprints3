@@ -1,0 +1,17 @@
+MCAL/PWM/PWM.o MCAL/PWM/PWM.o: ../MCAL/PWM/PWM.c ../MCAL/PWM/PWM.h \
+  ../MCAL/PWM/../DIO/DIO.h ../MCAL/PWM/../DIO/../../LIB/STD_TYPES.h \
+  ../MCAL/PWM/../DIO/../../LIB/BIT_MANIPULATE.h \
+  ../MCAL/PWM/../../LIB/STD_TYPES.h \
+  ../MCAL/PWM/../../LIB/BIT_MANIPULATE.h
+
+../MCAL/PWM/PWM.h:
+
+../MCAL/PWM/../DIO/DIO.h:
+
+../MCAL/PWM/../DIO/../../LIB/STD_TYPES.h:
+
+../MCAL/PWM/../DIO/../../LIB/BIT_MANIPULATE.h:
+
+../MCAL/PWM/../../LIB/STD_TYPES.h:
+
+../MCAL/PWM/../../LIB/BIT_MANIPULATE.h:
